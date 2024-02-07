@@ -33,3 +33,8 @@ I am graduated from Bangladesh University of Business and Technology (BUBT), Rup
 [![](https://visitcount.itsvg.in/api?id=ismatjahanbijori&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismatjahanbijori&show_icons=true&locale=en&layout=compact" alt="ismatjahanbijori" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismatjahanbijori&show_icons=true&locale=en" alt="ismatjahanbijori" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismatjahanbijori&" alt="ismatjahanbijori" /></p>
