@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Web Developer(ReactJS) from Dhaka, Bangladesh</h3>
 
 # 💫 About Me:
-I am graduated from Bangladesh University of Business and Technology (BUBT), Rupnagar, Dhaka, Bangladesh with a passion for honing my expertise in both front-end development. My goal is to excel in the field of web development, crafting intuitive websites and applications that blend exceptional functionality with aesthetically pleasing design. By creating seamless user experiences, I aim to drive significant business outcomes and surpass client expectations, making a positive impact in the digital world.
+I am graduated from Bangladesh University of Business and Technology (BUBT), Rupnagar, Dhaka, Bangladesh with a passion for honing my expertise in front-end development. My goal is to excel in the field of web development, crafting intuitive websites and applications that blend exceptional functionality with aesthetically pleasing design. By creating seamless user experiences, I aim to drive significant business outcomes and surpass client expectations, making a positive impact in the digital world.
 
 - 🌱 I’m currently learning **Redux, Typescript, NextJS**
 
